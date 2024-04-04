@@ -1,13 +1,5 @@
 
 
-<p align="center">
-  <h1 align="center"><br><ins>$\color{red}{\textnormal{Image\ Matching\ WebUI}}$
-</ins><br>find matches between 2 images</h1> 
-</p>
-
-
-or deploy it locally following the instructions below.
-
 ### Requirements
 ``` bash
 git clone --recursive https://github.com/Vincentqyw/image-matching-webui.git
